@@ -10,6 +10,7 @@ def hello():
             main()
 
 # Answer of the question
+# "def" is a keyword use to define a function in Python
 def hello():
     print("Hello")
 def main():
